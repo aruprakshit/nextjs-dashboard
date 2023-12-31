@@ -5,7 +5,7 @@ This is the starter template for the Next.js App Router Course. It contains the 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
 
-Progressed so far https://nextjs.org/learn/dashboard-app/streaming
+Progressed so far https://nextjs.org/learn/dashboard-app/mutating-data#updating-an-invoice
 
 https://medium.com/@nadeem.ahmad.na/understanding-useimperativehandle-a-powerful-hook-for-react-development-46063e44e52a
 
