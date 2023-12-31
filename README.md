@@ -11,3 +11,5 @@ https://medium.com/@nadeem.ahmad.na/understanding-useimperativehandle-a-powerful
 
 https://www.youtube.com/watch?v=vCOSTG10Y4o
 https://www.youtube.com/watch?v=GowPe3iiqTs
+
+https://www.reddit.com/r/nextjs/comments/18uxneb/what_are_your_thoughts_on_using_trpc_with_next_14/?sort=new
